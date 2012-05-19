@@ -1,0 +1,16 @@
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\obj\Debug\MVC.RestAPI.csprojResolveAssemblyReference.cache
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\MVC.RestAPI.dll
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\MVC.RestAPI.pdb
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\EntityFramework.dll
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\Microsoft.Web.Optimization.dll
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\System.Web.Helpers.dll
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\System.Web.Mvc.dll
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\System.Web.Providers.dll
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\System.Web.Razor.dll
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\System.Web.WebPages.Deployment.dll
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\System.Web.WebPages.dll
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\System.Web.WebPages.Razor.dll
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\bin\EntityFramework.xml
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\obj\Debug\MVC.RestAPI.dll
+c:\users\diego\documents\visual studio 11\Projects\MVC.RestAPI\MVC.RestAPI\obj\Debug\MVC.RestAPI.pdb

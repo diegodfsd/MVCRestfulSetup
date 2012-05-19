@@ -24,28 +24,35 @@ namespace MVC.RestAPI
             routes.MapRoute(
                 "NewUser", // Route name
                 "{controller}/", // URL with parameters
-                new { controller = "User", action = "Create" },
+                new { controller = "Users", action = "Create" },
                 new { httpMethod = new HttpMethodConstraint("POST") }
             );
 
             routes.MapRoute(
                 "ListUser", // Route name
                 "{controller}/", // URL with parameters
-                new { controller = "User", action = "Index" },
+                new { controller = "Users", action = "Index" },
                 new { httpMethod = new HttpMethodConstraint("GET") }
             );
 
             routes.MapRoute(
                 "UpdateUser", // Route name
                 "{controller}/{id}", // URL with parameters
-                new { controller = "User", action = "Update", id = UrlParameter.Optional },
+                new { controller = "Users", action = "Update", id = UrlParameter.Optional },
                 new { httpMethod = new HttpMethodConstraint("PUT") }
+            );
+
+            routes.MapRoute(
+                "DeleteUser", // Route name
+                "{controller}/{id}", // URL with parameters
+                new { controller = "Users", action = "Delete", id = UrlParameter.Optional },
+                new { httpMethod = new HttpMethodConstraint("DELETE") }
             );
 
             routes.MapRoute(
                 "Default", // Route name
                 "{controller}/{action}/{id}", // URL with parameters
-                new { controller = "User", action = "Index", id = UrlParameter.Optional }
+                new { controller = "Users", action = "Index", id = UrlParameter.Optional }
             );
 
         }
