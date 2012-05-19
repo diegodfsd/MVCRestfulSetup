@@ -9,6 +9,7 @@ namespace MVC.RestAPI.Controllers
 {
     public class UsersController : Controller
     {
+        [HttpGet]
         public ActionResult Index()
         {
             return new HttpStatusCodeResult(HttpStatusCode.OK);
@@ -27,7 +28,7 @@ namespace MVC.RestAPI.Controllers
             return new HttpStatusCodeResult(HttpStatusCode.OK);
         }
 
-        [HttpPut]
+        [HttpDelete]
         public ActionResult Delete()
         {
             return new HttpStatusCodeResult(HttpStatusCode.OK);
